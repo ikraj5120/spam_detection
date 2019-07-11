@@ -27,6 +27,6 @@ paste the file in your project directory and run below command to install requir
     
     c. SVC (Support Vector Classifier)
   
-4. A gridsearch using all cpu cres for finding best hyper model
-5. prediction and accuracy score
+4. A GridSearch using all CPU cores for finding best hyper parameters
+5. Test prediction and accuracy score
 6. Classification report for the model

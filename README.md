@@ -9,7 +9,13 @@ https://www.kaggle.com/dejavu23/sms-spam-or-ham-beginner
 
 Original tutorial mentioned above uses many classifier and builds a confusion matrix for all for finding the best fit model. 
 
+# pipfile.lock attached
+
+paste the file in your project directory and run below command to install required packages.
+# > pipenv install
+
 What this notebook consists:
+
 
 1. Word clouds for spam and ham messages
 2. Bar plots for 30 most common spam and ham messages

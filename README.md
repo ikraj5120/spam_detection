@@ -22,7 +22,9 @@ paste the file in your project directory and run below command to install requir
 3. Pipeline process for model builiding using below components
 
     a. CountVectorizer
+    
     b. TfidfTransformer
+    
     c. SVC (Support Vector Classifier)
   
 4. A gridsearch using all cpu cres for finding best hyper model

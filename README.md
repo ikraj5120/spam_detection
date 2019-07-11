@@ -1,4 +1,4 @@
-# spam_detection
+# Spam or Ham
 
 This  notebook is a summarized version of Spam detection problem using GridSearch and SVC (Support Vector Classifier).
 Original problem link:
@@ -14,9 +14,10 @@ What this notebook consists:
 1. Word clouds for spam and ham messages
 2. Bar plots for 30 most common spam and ham messages
 3. Pipeline process for model builiding using below components
-  a. CountVectorizer
-  b. TfidfTransformer
-  c. SVC (Support Vector Classifier)
+
+    a. CountVectorizer
+    b. TfidfTransformer
+    c. SVC (Support Vector Classifier)
   
 4. A gridsearch using all cpu cres for finding best hyper model
 5. prediction and accuracy score
